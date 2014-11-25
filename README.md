@@ -1,12 +1,12 @@
 # Path Tracer SS
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/steveschwarcz/PathTracerSS/master/SteveRay/Renders/render-Dragon100.png" alt="Render"/>
+<img src="https://raw.githubusercontent.com/steveschwarcz/Path-Tracer-SS/master/SteveRay/Renders/render-Dragon100.png" alt="Render"/>
 </p>
 
-This is a simple Path Tracer that I made, using a various papers quoted within the code and from "Computer Graphics: Principles and Practice" by  Hughes, Van Dam, et. al.
+This is a simple Path Tracer that I made, using a variety of papers (quoted within the code) and "Computer Graphics: Principles and Practice" by  Hughes, Van Dam, et. al.
 
-It's not compeltely polished, but it does feature:
+It's not completely polished, but it does feature:
 
 
 * Togglable ray tracing and path tracing
